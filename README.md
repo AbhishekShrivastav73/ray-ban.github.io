@@ -1,2 +1,2 @@
 # ray-ban.github.io
-Animated Website Using the Shery.js
+Animated Landing Page Using the Shery.js
